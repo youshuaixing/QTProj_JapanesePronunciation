@@ -1,0 +1,1 @@
+# QTProj_JapanesePronunciation-
