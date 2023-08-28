@@ -1,6 +1,6 @@
 # QTProj_JapanesePronunciation
 
-一个用QT做的日语五十音图的发音小程序。
+一个用QT做的日语五十音图的发音小程序。详情见master分支
 1.点击可听发音
 2.点击后文字复制到剪贴板
 
